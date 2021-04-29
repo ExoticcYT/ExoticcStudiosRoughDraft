@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to bottom,yellow, green, lightgreen, lightskyblue, lightblue, blue , black);
+    color: black;
+}
+
+
+img{
+    width :500px;
+    height:200px;
+}
+
+h1,a,p{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+
+}
